@@ -1,0 +1,19 @@
+body{
+    background-image: url('/gym-girl.jpg');
+    background-size: 100%;
+    background-origin: inherit;
+   
+}
+
+a:hover{
+    background-color: yellow;
+    color: white;
+}
+
+.data{
+    width: 50%;
+    margin: 5% 2% 0% 70%;
+}
+
+.add{width: 50%;}
+
