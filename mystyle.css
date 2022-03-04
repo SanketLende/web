@@ -1,6 +1,7 @@
 body{
     background-image: url('gym-girl.jpg');
     background-repeat: repeat-x;
+    width:auto;
     background-size: 100%;
     background-origin: inherit;
    
